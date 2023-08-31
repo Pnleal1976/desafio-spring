@@ -34,5 +34,5 @@ public class Vehicle {
     @ManyToOne
     private Client client_idClient;
 
-
+//mandioca
 }
